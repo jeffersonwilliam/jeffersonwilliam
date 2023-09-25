@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
-I'm a student at Dartmouth College studying computer science.
+Software Engineer & Dartmouth College alum.
 
 <!--
 **jeffersonwilliam/jeffersonwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
